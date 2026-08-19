@@ -55,6 +55,14 @@ Los ejercicios se realizarán principalmente mediante **Google Colab**, por lo q
 
 El material se irá organizando de acuerdo con las sesiones del curso.
 
+# Presentación del día 1.
+
+En el siguiente link encontrarán las diapositivas del día 1:
+
+👉 *[Ver presentación del día 1: https://pyladies-cuernavaca.quarto.pub/mini-curso_python_dia1](https://pyladies-cuernavaca.quarto.pub/mini-curso_python_dia1)*
+
+
+
 ---
 
 ## Requisitos
