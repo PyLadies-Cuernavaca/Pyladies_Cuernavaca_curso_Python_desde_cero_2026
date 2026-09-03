@@ -89,15 +89,7 @@ Nuestros eventos están **abiertos a personas de todos los géneros** que quiera
 * **YouTube:** @pyladiescuernavaca
 * **Correo:** [cuernavaca@pyladies.com](mailto:cuernavaca@pyladies.com)
 
----
 
-## Licencia
-
-Los materiales educativos de este repositorio se distribuyen bajo la licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
-
-Esto permite compartir el material con fines no comerciales, siempre que se otorgue el crédito correspondiente a **PyLadies Cuernavaca y a las autoras originales**, y que las obras derivadas se distribuyan bajo la misma licencia.
-
-Consulta el archivo [`LICENSE`](LICENSE) para más información.
 
 ---
 
@@ -107,4 +99,26 @@ Consulta el archivo [`LICENSE`](LICENSE) para más información.
 
 ---
 
+El contenido y los materiales de este curso fueron desarrollados por:
+
+* **Dra. Maricela Carrera**
+* **M.O.C.A. Edna Cruz F.**
+* **M. en C. Wendolyn Estrada**
+* **Dra. Alida Zárate**
+
 **PyLadies Cuernavaca 💜**
+
+---
+## Licencia
+
+Los materiales educativos de este repositorio se distribuyen bajo la licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+Esto permite compartir el material con fines no comerciales, siempre que se otorgue el crédito correspondiente a **PyLadies Cuernavaca y a las autoras originales**, y que las obras derivadas se distribuyan bajo la misma licencia.
+
+Consulta el archivo [`LICENSE`](LICENSE) para más información.
+
+---
+## Agradecimientos y financiamiento
+Edna Cruz Flores: Proyecto Ciencia Básica y de Frontera CBF-2025-I-1026, “Vigilancia genómica de dengue y exploración del origen de síndromes febriles no diagnosticados en regiones endémicas mediante metagenómica”, financiado por la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI).
+
+Alida Zárate: Programa Estancias Posdoctorales por México de la SECIHTI, mediante el proyecto “Modelos de deep learning y de lenguaje para predecir la dispersión geográfica y evolución de las variantes de dengue y otros virus respiratorios a partir de datos genómicos y epidemiológicos”.
